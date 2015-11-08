@@ -1,0 +1,11 @@
+.test{
+    background: url(logo.png);
+    background: url(logo.svg);
+    background: url(../logo.png);
+    background: url(logo.png);
+    background: url(logo.svg);
+background-color: #364e64;
+  font: 400 15px / 23.2px OpenSans;
+  
+}
+
