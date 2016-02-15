@@ -11,6 +11,8 @@ stylesheets-remove:
   - '@bartik/css/colors.css'
   - '@bartik/css/components/primary-menu.css'
   - '@bartik/css/components/header.css'
+  - '@bartik/css/components/field.css'
+  - '@bartik/css/base/elements.css'
 
 regions:
   header: Header
