@@ -2,9 +2,11 @@ global-styling:
   css:
     base:
       css/style.css: {} 
+      css/elements.css: {} 
     component:
       css/primary-menu.css: {}
       css/header.css: {}
+      css/field.css: {}
     theme:
       css/colors.css: {}
       css/typography.css: {} 
